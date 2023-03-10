@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://WWW.Home.200OK.Work/
+url: https://WWW.Outgoing.200OK.Work/
 permalink: t/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ theme: Text
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Yosunair/Yosunair.github.io
+  repo: https://github.com/Yosunair/Outgoing
   # example, https://github.com/hexojs/hexojs.github.io
   branch: Yosunair-Output
 
